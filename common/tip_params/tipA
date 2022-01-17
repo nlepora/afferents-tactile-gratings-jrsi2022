@@ -1,0 +1,1 @@
+{"blob_color": 255, "min_threshold": 50, "max_threshold": 150, "filter_by_area": true, "min_area": 95, "max_area": 180, "filter_by_circularity": true, "min_circularity": 0.25, "filer_by_convexity": true, "min_convexity": 0.58, "filter_by_inertia": true, "min_inertia_ratio": 0.16, "max_pin_dist_from_centroid": 300, "min_pin_seperation": 0, "max_tracking_move": 10}
